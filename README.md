@@ -14,7 +14,7 @@ This project predicts California housing prices using Multiple Linear Regression
 - Pandas
 - Matplotlib
 - Scikit-learn
-- Jupyter Notebook
+- colab Notebook
 
 ## 📊 Features
 - Data Loading
@@ -56,11 +56,10 @@ pip install -r requirements.txt
 
 ## Run
 
-Open the Jupyter Notebook:
+Click the button below to open the notebook directly in Google Colab:
 
-```bash
-jupyter notebook
-```
+[![Open In Colab](https://google.com)](https://google.com)
+
 
 ## Future Improvements
 
