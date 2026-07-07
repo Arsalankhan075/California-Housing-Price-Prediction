@@ -42,8 +42,6 @@ California-Housing-Price-Prediction/
 ├── California_Housing_Price_Prediction.ipynb
 ├── requirements.txt
 ├── README.md
-├── model.pkl
-└── images/
 ```
 
 ## Installation
